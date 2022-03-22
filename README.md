@@ -3,10 +3,6 @@
 
 <p align="center">
 <a href="https://github.com/1337r0j4n"><img title="WEBIN" src="https://github-readme-stats.vercel.app/api/pin/?username=1337r0j4n&repo=webin-toolbox&theme=radical"></a>
-<a href="https://github.com/mkdirlove/WI-TOOLKIT"><img title="WI-TOOLKIT" src="https://github-readme-stats.vercel.app/api/pin/?username=mkdirlove&repo=WI-TOOLKIT&theme=radical"></a>
-<a href="https://github.com/mkdirlove/WIFI-DOS"><img title="WIFI-DOS" src="https://github-readme-stats.vercel.app/api/pin/?username=mkdirlove&repo=WIFI-DOS&theme=radical"></a>
-<a href="https://github.com/mkdirlove/WEPWN"><img title="WEPWN" src="https://github-readme-stats.vercel.app/api/pin/?username=mkdirlove&repo=WEPWN&theme=radical"></a>
 </p>
-![Top lang](https://github-readme-stats.vercel.app/api/top-langs/?username=1337r0j4n&layout=compact&hide_border=true&theme=midnight-purple&show_icons=true)
 
 
