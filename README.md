@@ -1,3 +1,3 @@
 ```
-cigarettes and computer codeing can cause cancer 
+cigarettes & computer codeing can cause cancer 
 ```
