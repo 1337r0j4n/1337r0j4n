@@ -1,4 +1,4 @@
-<?pHp 
+<?php 
     error_reporting(0);
 	define('BASE_PATH',str_ireplace($_SERVER['PHP_SELF'],'',__FILE__));
 	function curl_get_contents($url){

